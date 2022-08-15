@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Population-Website/static/css/main.fc7cc894.css",
+    "main.js": "/Population-Website/static/js/main.059c5c7d.js",
+    "static/js/498.e8cb661d.chunk.js": "/Population-Website/static/js/498.e8cb661d.chunk.js",
+    "static/js/703.3e595c48.chunk.js": "/Population-Website/static/js/703.3e595c48.chunk.js",
+    "static/js/424.6981d26c.chunk.js": "/Population-Website/static/js/424.6981d26c.chunk.js",
+    "static/js/787.26b3fc3f.chunk.js": "/Population-Website/static/js/787.26b3fc3f.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Population-Website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Population-Website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Population-Website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Population-Website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Population-Website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Population-Website/index.html",
+    "main.fc7cc894.css.map": "/Population-Website/static/css/main.fc7cc894.css.map",
+    "main.059c5c7d.js.map": "/Population-Website/static/js/main.059c5c7d.js.map",
+    "498.e8cb661d.chunk.js.map": "/Population-Website/static/js/498.e8cb661d.chunk.js.map",
+    "703.3e595c48.chunk.js.map": "/Population-Website/static/js/703.3e595c48.chunk.js.map",
+    "424.6981d26c.chunk.js.map": "/Population-Website/static/js/424.6981d26c.chunk.js.map",
+    "787.26b3fc3f.chunk.js.map": "/Population-Website/static/js/787.26b3fc3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7cc894.css",
+    "static/js/main.059c5c7d.js"
+  ]
+}
